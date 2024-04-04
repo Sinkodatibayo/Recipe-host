@@ -10,7 +10,7 @@ body {
 .container {
     background-color: hsl(0, 0%, 100%);
     margin: auto;
-    width: 80%;
+    width: 100%;
     padding: 50px;
     border-radius: 20px
 
